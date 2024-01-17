@@ -1,0 +1,25 @@
+.bg {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.cardd {
+    background-color: #ffffff;
+    padding: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-family: 'Roboto';
+}
+
+.mainheading {
+    color: #323f4b;
+}
+
+.para {
+    color: #7b8794;
+}
+
+.button {
+    border-radius: 10px;
+}
