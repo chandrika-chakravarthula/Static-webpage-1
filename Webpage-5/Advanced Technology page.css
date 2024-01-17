@@ -1,0 +1,45 @@
+.bg {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.bgtext {
+    background-color: #ffffff;
+    font-family: 'Bree Serif';
+    text-align: center;
+    padding: 5px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.text-heading {
+    color: #5752ab;
+    padding: 10px;
+}
+
+.para {
+    color: #323f4b;
+}
+
+.button {
+    border-radius: 10px;
+    border-color: #d7dfe9;
+    border-width: 2px;
+    margin: 5px;
+    font-family: 'Roboto';
+    width: 138px;
+    height: 36px;
+
+}
+
+.b1 {
+    background-color: #5752ab;
+    color: #ffffff;
+
+}
+
+.b2 {
+    background-color: #ffffff;
+    color: #171f46;
+}
